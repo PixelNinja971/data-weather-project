@@ -21,7 +21,6 @@ Il a pour objectif de démontrer les bases d’un pipeline data simple : collect
 - Python
 - API REST (OpenWeather)
 - SQL (SQLite)
-- SQLAlchemy
 - Git
 
 ---
@@ -35,8 +34,6 @@ Il a pour objectif de démontrer les bases d’un pipeline data simple : collect
 
 ## Ajouter une clé API OpenWeather dans un fichier .env :
 API_KEY=your_api_key_here
-
- git status 
  
  ## Lancer le programme :
 python src/main.py
