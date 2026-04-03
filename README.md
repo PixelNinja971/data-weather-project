@@ -28,13 +28,13 @@ This project was built as part of my learning journey into **Data Engineering**.
 
 The pipeline follows a simple Extract → Transform → Load (ETL) structure.
 OpenWeather API
-↓
+    ↓
 api.py (Extract data)
-↓
+    ↓
 transform.py (Clean & structure data)
-↓
+    ↓
 database.py (Store data)
-↓
+    ↓
 SQLite database
 
 ---
